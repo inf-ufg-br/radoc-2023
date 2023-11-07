@@ -8,7 +8,7 @@ O docente pode relatar suas DIFICULDADES sobre o RADOC/SICAD+, ou apresentar SUG
 
 O fluxo para a interação com a Comissão RADOC é descrito a seguir:
 1. Logar-se no [GitHub](https://www.github.com/login).
-2. Ir para o [Portal da Comissão](https://github.com/inf-ufg-br/radoc-2022).
+2. Ir para o [Portal da Comissão](https://github.com/inf-ufg-br/radoc-2023).
 3. Clicar em "Issues".
 4. Clicar em "new issue".
 5. Selecionar o tipo de comunicação: "dificuldade" ou "sugestão".

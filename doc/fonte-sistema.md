@@ -8,7 +8,7 @@ Os Sistemas da UFG são uma das <ins>**Fontes de informação do RADOC**</ins>:
 [<img src="../media/fluxo-sistemas.jpg" width="750">](#fluxo-para-registros-radoc-importados-a-partir-de-sistemas-da-ufg)
 
 Cabe ao docente AVERIGUAR <ins>**se os requisitos dos registros foram atendidos**</ins>:
-1. Os Sistemas da UFG são ALIMENTADOS durante o Ano 2022:
+1. Os Sistemas da UFG são ALIMENTADOS durante o Ano 2023:
    - Exemplos de sistemas: SIGAA-Ensino, SIGAA-Extensão, etc.
 1. Para <ins>**cada dos registros oriundos de Sistemas UFG**</ins>:
    1. O docente CHECA [via SICAD+] se o registro [e sua pontuação] estão no RADOC:

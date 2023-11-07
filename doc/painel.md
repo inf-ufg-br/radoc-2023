@@ -11,4 +11,4 @@
 [![](../media/painel-zero-cronograma.jpg)](./form-cronograma.md#cronograma/)
 
 Fim	&#9749;
-###### *by [Comissão INF/UFG para o RADOC 2022](./x-index.md#comissão-radoc-2022)*
+###### *by [Comissão INF/UFG para o RADOC 2023](./x-index.md#comissão-radoc-2023)*

@@ -1,4 +1,4 @@
-## Comissão RADOC 2022 &#x27FC; Pessoas: Composição
+## Comissão RADOC 2023 &#x27FC; Pessoas: Composição
 
 ### Membros
 
