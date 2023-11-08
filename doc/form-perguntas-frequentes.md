@@ -28,18 +28,14 @@
 |-|
 |Para ter acesso a TODAS as portarias que envolvem os docentes do INF, favor acessar o [<ins><b>RELATÓRIO DE PORTARIAS</b></ins>](https://www.inf.ufg.br/p/43568-relatorio-de-emissao-de-portarias):<br>- O docente pode "filtar" informações presentes na tabela.<br>- A última coluna da tabela é o _link_ para o arquivo da portaria.<br>- <ins>O docente deve estar atendo se a portaria tem vigência em 2023</ins>.|
 ### q004
-|As instruções [das Comissões RADOC anteriores] sobre as atividades docentes estão disponíveis?|
-|-|
-|Sim, a instruções estão disponíveis [<ins>**AQUI**</ins>](https://docs.google.com/spreadsheets/d/1r7R49SosuoSZuDxSHp_M1s5jyZYC9O7KnHdICywnbtQ/edit?usp=drive_web&ouid=105036038655527034429).|
-### q005
 |Como inserir no RADOC as orientações de monitoria?|
 |-|
 |A orientação de monitoria ocorre via importação a partir do software SIGAA>Monitoria. Contudo, conforme posto em [Fontes das Informações do SICAD+](https://cercomp.ufg.br/p/mapeamento-sicad), a Atividade V-1.27 (Aluno orientado em programa de monitoria) está em manutenção, a  saber: "Ajuste em andamento no Módulo Monitoria e critérios para importação". Vamos aguardar um pouco para que essa importação se torne funcional.|
-### q006
+### q005
 |Serão emitidas portarias sobre a participação em reuniões do CD, da CPG e do planejamento pedagógico e administrativo?|
 |-|
 |Sim, tais portarias serão emitidas próximas ao final do ano. O conteúdo das portarias será automaticamente importado para o RADOC, visto que as mesmas serão emitidas via o _software_ SIGRH-Portarias. A quantidade de horas pertinentes a cada portaria será calculada pela administração do INF.<br>Em tempo: As Portarias 4754 de 08/11/2022 e 4864 de 11/11/2022, pertinentes aos planejamentos pedagógico e administrativo, foram emitidas e enviadas aos docentes via e-mail.|
-### q007
+### q006
 |Como inserir no RADOC a produção/promoção de eventos (regionais, nacionais, internacionais)?|
 |-|
 |A atividade "promoção ou produção de eventos artísticos e científicos regionais, nacionais e internacionais" (Tabela III-2 Atividades de Extensão na [Resolução CONSUNI 18/2017](https://sistemas.ufg.br/consultas_publicas/resolucoes/arquivos/Resolucao_CONSUNI_2017_0018.pdf)), segundo o documento [Fontes das informações do SICAD+](https://cercomp.ufg.br/p/mapeamento-sicad), é importada para o RADOC a partir do sistema **SIGAA > Extensão**, ou seja, essa atividade de extensão precisa estar previamente cadastrada no sistema. Contudo, há requisitos para a importação, tal como "Cadastro de relatório parcial ou final da ação de extensão, aprovado pela unidade acadêmica e PROEC".|

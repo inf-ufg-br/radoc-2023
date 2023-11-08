@@ -10,7 +10,7 @@ As Portarias emitidas pela UFG são _potencialmente_ uma das <ins>**Fontes de in
 Cabe ao docente AVERIGUAR **se todos** os registros oriundos de portarias estão presentes no RADOC:
 1. O docente IDENTIFICA <ins>**todas as suas portarias**</ins>:
    - Portarias que mencionam o seu nome; E
-   - Portarias com vigência [de pelo menos um dia] em 2022:
+   - Portarias com vigência [de pelo menos um dia] em 2023:
      - inclui portarias emitidas em anos anteriores.
 1. Para <ins>**cada uma de suas portarias**</ins>:
    1. O docente CHECA [via SICAD+] se a portaria [e sua pontuação] estão no RADOC:
