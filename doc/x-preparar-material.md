@@ -26,7 +26,8 @@
             <td>Organizar reunião online (<i>live</i>), com os objetivos:<br/>&#x26BE; Orientar sobre como alimentar o RADOC, conforme os <b>Fluxos RADOC/SICAD+.</b><br/>&#x26BE; Reunir as dúvidas dos professores; deixar claro que é um processo novo.</td>
         </tr>    
         <tr>
-            <td>&#x2714; A <i>live</i> foi organizada conforme descrito <a href="https://github.com/inf-ufg-br/radoc-2022/blob/main/doc/x-reuniao-20221026.md"><ins><b>AQUI</b></ins></a>:<br/>&#x2015; A <i>live</i> ocorrerá em 31/10/2022 às 14:30.</td>
+            <td>&#x2714; A <i>live</i> foi organizada conforme descrito <a href="https://github.com/inf-ufg-br/radoc-
+            /blob/main/doc/x-reuniao-20221026.md"><ins><b>AQUI</b></ins></a>:<br/>&#x2015; A <i>live</i> ocorrerá em 31/10/2022 às 14:30.</td>
         </tr>    
         <tr>
             <td rowspan=2><i>done</i></td>
