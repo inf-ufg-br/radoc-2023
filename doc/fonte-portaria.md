@@ -14,8 +14,7 @@ Cabe ao docente AVERIGUAR **se todos** os registros oriundos de portarias estão
      - inclui portarias emitidas em anos anteriores.
 1. Para <ins>**cada uma de suas portarias**</ins>:
    1. O docente CHECA [via SICAD+] se a portaria [e sua pontuação] estão no RADOC via SICAD+.
-        
-      Obs: O formulário para informar atividade realizada com portaria ou documento equivalente em 2022 está com o período de cadastro encerrado.
+      1. O formulário para informar atividade realizada com portaria ou documento equivalente em 2022 está com o período de cadastro encerrado.
 
 Fim &#9997;
 ___
@@ -30,7 +29,7 @@ O Documento **OFÍCIO CIRCULAR 8 (3159832)** no **Processo SEI 23070.047822/2022
 
 Apesar de saber que as portarias emitidas via **SIGRH-Portarias** são automaticamente importadas para o RADOC:
   - CABE AO DOCENTE AVERIGUAR se <ins>cada uma e suas portarias</ins> está presente no RADOC:
-    - Em caso NEGATIVO, o docente SOLICITA a inserção do registro da portaria no RADOC via [Formulário](https://forms.gle/ZTpzozkuU1vyBHUB8).
+    - O formulário para informar atividade realizada com portaria ou documento equivalente em 2022 está com o período de cadastro encerrado.
   - As portarias de anos anteriores (por exemplo, em 2021) e vigentes em 2022 DEVEM SER AVERIGUADAS.
 
 [^1]: **SIGRH-Portarias** é o sistema gerenciador de portarias na UFG.
