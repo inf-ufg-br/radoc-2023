@@ -7,8 +7,8 @@
 
 ## Favor clicar [<ins>AQUI</ins>](./doc/painel.md#painel-visao-geral/), para acessar o <ins>Portal de Instruções</ins> para alimentar o RADOC.
 
-[![](../media/readme-acesso-portal.jpg)](./doc/painel.md#painel-visao-geral/)
-[<img src="../media/readme-acesso-portal.jpg">](./doc/painel.md#painel-visao-geral/)
+[![](/media/readme-acesso-portal.jpg)](./doc/painel.md#painel-visao-geral/)
+
 
 
 ---
