@@ -5,7 +5,7 @@
 🔵 O SICAD+ é utilizado pelo docente APENAS para **consultar** o RADOC.<br>
 🔵 Não é possível alterar o RADOC via a _interface_ de usuário do SICAD+.
 
-## Favor clicar no botão abaixo para acessar o _Portal de Instruções para Alimentação do RADOC/SICAD+_:
+## Favor clicar no botão abaixo para acessar o Portal de Instruções para Alimentação do RADOC/SICAD+:
 
 [![](/media/readme-acesso-portal.jpg)](./doc/painel.md#painel-visao-geral/)
 
