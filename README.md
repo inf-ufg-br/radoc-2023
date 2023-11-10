@@ -1,4 +1,4 @@
-#RADOC/SICAD+
+# Repositório da Documentação do RADOC/SICAD+
 
 ### Em 2023, a UFG continua usando o software **SICAD+**[^1]:<br>
 &#x26BE; O SICAD+ é utilizado pelo docente APENAS para **consultar** o RADOC.<br>
