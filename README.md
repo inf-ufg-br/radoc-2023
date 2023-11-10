@@ -9,6 +9,7 @@
 
 [![](../media/readme-acesso-portal.png)](./doc/painel.md#painel-visao-geral/)
 
+
 ---
 
 &#x261B; Data limite: <ins>??/Dez/2023</ins>
