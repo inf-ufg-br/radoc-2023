@@ -1,4 +1,4 @@
-# Repositório da Documentação do RADOC/SICAD+
+# Repositório do Portal de Instruções para Alimentação do RADOC/SICAD+
 
 ### Em 2023, a UFG continua usando o software **SICAD+**[^1]:<br>
 
@@ -6,6 +6,9 @@
 🔵 Não é possível alterar o RADOC via a _interface_ de usuário do SICAD+.
 
 ## Favor clicar [<ins>AQUI</ins>](./doc/painel.md#painel-visao-geral/), para acessar o <ins>Portal de Instruções</ins> para alimentar o RADOC.
+
+[![](../media/readme-acesso-portal.png)](./doc/painel.md#painel-visao-geral/)
+
 ---
 
 &#x261B; Data limite: <ins>??/Dez/2023</ins>
