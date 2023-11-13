@@ -10,7 +10,7 @@
 
 ---
 
-&#x261B; Data limite: <ins>??/Dez/2023</ins>
+&#x261B; Data limite: <ins>06/Dez/2023</ins>
 
 ###### *by [Comissão INF/UFG para o RADOC 2023](./doc/x-index.md#comissão-radoc-2023)* [^2]
 [^1]: **SICAD+** é o software que substitui o SICAD (Sistema de Consulta de Atividades Docentes).
