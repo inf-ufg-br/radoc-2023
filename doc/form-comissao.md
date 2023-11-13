@@ -5,8 +5,8 @@ O docente pode relatar suas DIFICULDADES sobre o RADOC/SICAD+, ou apresentar SUG
 **Falar com a Comissão é <ins>SIMPLES</ins>**:
 - A interação ocorre através de um dos seguintes e-amils
 
-|-|-|
 |Nome|E-Mail|
+|-|-|
 |Ana Cláudia Bastos Loureiro Monção|anaclaudia@inf.ufg.br|
 |Antonio Carlos de Oliveira Júnior|antoniojr@ufg.br|
 |Deborah Silva Alves Fernandes|deborah.fernandes@ufg.br|
