@@ -1,4 +1,4 @@
-# Repositório do Portal de Instruções para Alimentação do RADOC/SICAD+
+# Portal de Instruções para Alimentação do RADOC/SICAD+
 
 ### Em 2023, a UFG continua usando o software **SICAD+**[^1]:<br>
 
